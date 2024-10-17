@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "wmx-torres",
+        "projectKey": "wmx-torres_plsql"
+    }
+}
